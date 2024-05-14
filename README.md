@@ -28,6 +28,7 @@ Categories: Explore news articles conveniently categorized for easy browsing.
 To get started with the News Application, follow these simple steps:
 
 Step 1: Clone this repository to your local machine.
+
 Step 2: Navigate to the project directory.
 
 Step 3: Run the application on your preferred Flutter-compatible device or emulator.
