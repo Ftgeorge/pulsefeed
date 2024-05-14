@@ -32,7 +32,9 @@ Step 1: Clone this repository to your local machine.
 Step 2: Navigate to the project directory.
 
 Step 3: Run the application on your preferred Flutter-compatible device or emulator.
+
 That's it👌
+
 You're now ready to explore the latest news with just a few taps.
 
 ## Contributions
