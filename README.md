@@ -13,9 +13,9 @@ Categories: Explore news articles conveniently categorized for easy browsing.
 
 - Breaking News: The breaking news section is powered by the NewsAPI endpoint, ensuring you never miss out on important updates.
 
-- Headlines Page: Categories are seamlessly integrated using the NewsAPI, allowing users to explore news articles based on their interests.
+- Headlines: Categories are seamlessly integrated using the NewsAPI, allowing users to explore news articles based on their interests.
 
-- Search API: Effortlessly search through a plethora of news articles using the search functionality.
+- Search: Effortlessly search through a plethora of news articles using the search functionality.
 
 ## Technologies Used
 
